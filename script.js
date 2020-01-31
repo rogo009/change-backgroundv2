@@ -2,7 +2,7 @@
 
 //variables
 const body = document.querySelector('body');
-const h1 = document.querySelector('h1');
+const h1 = document.querySelector('h1'); // not attached to any function
 const button = document.getElementById('button').addEventListener('click', change);
 let r, g, b;
 

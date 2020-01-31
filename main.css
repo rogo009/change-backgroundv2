@@ -15,7 +15,7 @@ h1 {
 
 h2 {
     position: absolute;
-    top: 25%;
+    top: 10%;
     left: 50%;
     transform: translate(-50%, -50%); 
 }
@@ -45,7 +45,7 @@ button:hover {
 
 footer {
     position: absolute;
-    top: 85%;
+    top: 90%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
