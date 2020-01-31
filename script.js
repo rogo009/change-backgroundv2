@@ -17,3 +17,5 @@ function change() {
     h1.textContent = color;
     body.style.backgroundColor = color;
 }
+
+//add another type of color generator like hex
