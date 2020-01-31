@@ -1,3 +1,5 @@
+// change-background v2
+
 //variables
 const body = document.querySelector('body');
 const h1 = document.querySelector('h1');
