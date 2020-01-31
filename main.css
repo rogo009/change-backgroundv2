@@ -13,7 +13,7 @@ h1 {
 
 h2 {
     position: absolute;
-    top: 25%;
+    top: 10%;
     left: 50%;
     transform: translate(-50%, -50%); 
 }
@@ -43,7 +43,21 @@ button:hover {
 
 footer {
     position: absolute;
-    top: 85%;
+    top: 90%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+#box1,
+#box2,
+#box3,
+#box4,
+#box5 {
+    border: 1px solid black;
+    height: 150px;
+    width: 150px;
+}
+
+.title {
+    font-size: 2em;
 }
